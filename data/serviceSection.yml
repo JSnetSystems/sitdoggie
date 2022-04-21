@@ -1,0 +1,26 @@
+---
+enable: true
+topTitle: What we do
+title: >
+  ## Services
+
+  Choose the service for your pet needs  
+service:
+  - content: >
+      #### Pet Sitting 
+
+      We stay with your pet to insure they get some tending loving care. 
+      Includes walks and play time and administrate any medicine that they require.
+    image: images/service/ui-ux.svg
+  - content: >
+      #### Dog Walking  
+
+      We primary do individual walks as we believe this is the safest way to walk dogs 
+      and they get the special attention they deserve.
+    image: images/service/web.svg
+  - content: >
+      #### Overnight
+
+      A Pet Sitter will stay in your home with your pet overnight to insure comfort and safety.
+    image: images/service/creative.svg
+  

@@ -1,0 +1,67 @@
+---
+enable: true
+topTitle: Pricing 
+title: >
+  ## Dog Walking 
+
+  We provide dog walking services in or around your neighborhood. We primary do individual walks as we believe this is the safest way to
+  walk dogs and they get the special attention they deserve. We have different amounts of allotted times to suite your needs.
+  
+
+  ## Pet Sitting
+
+  We stay with your pet to insure they get some tending loving care. Includes walks and play time and administrate any medicine that they require.
+   
+tab1Name: Services
+tab2Name: Locations
+tab1Target: education
+tab2Target: experience
+
+education:
+  - content: >
+      *Pop Ins / Express  $10.00
+
+
+      15 minute           $17.00 
+
+
+      30 Minute           $20.00
+      
+      Each Additional Pet $2.00
+
+
+      *available in certain areas only
+    time: Dog Walks
+  - content: >
+      15 minute visit      $17.00
+
+
+      30 minute visit      $20.00
+
+
+      60 minute visit      $30.00
+
+
+      Each Additional Pet  $2.00
+
+
+      Overnite Stays       $80.00
+    time: Pet Sitting
+  - content: >
+      Schedule an appointment or discuss our service offering, references, pricing, and any special accommodations that you may need
+    time: Free Consulations
+experience:
+  - content: >
+      #### Locations 
+
+      Ballenger Creek, Frederick, Green Valley, Ijamsville, Linganore, Monrovia, Mt. Airy, New Market, Urbana, Spring Ridge
+    time: Area we service
+  - content: >
+      #### Office  
+
+      Monday - Friday 08:00 AM - 05:00 PM
+
+
+      Closed Saturday and Sunday
+    time: Hours
+  

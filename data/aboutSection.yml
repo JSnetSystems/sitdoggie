@@ -1,0 +1,22 @@
+---
+enable: true
+topTitle: About
+title: >
+  ## About me
+
+  Founded in 2010, Sit Doggie is Dedicated Pet Lover and Caretaker. Based in Frederick, Maryland
+  
+content: >
+  ### Dog walker and pet lover of all animals.
+
+  Hello, I am the proud owner of Sit Doggie pet sitting and dog walking service. 
+  I'm very reliable, trusted Dog Walker serving Frederick Maryland and the surrounding 
+  area for many years. When you can't be home for them or busy with zoom calls I will
+  take care of your pet like they are one of my own.
+  
+  Feel free to contact me to discuss your needs.
+button1Name: Hire me
+button2Name: Download CV
+button1Target: contact
+button2Target: contact
+image: images/about/about-img.jpg
