@@ -49,7 +49,7 @@ googleAnalytics = "UA-26071497-1"
 logo = "images/site-navigation/logo.png"
 
 [params.address]
-address = "Frederick, Maryland"
+address = "New Market, Maryland"
 email = "dogwalker@sitdoggie.com"
 openingHours = "Open from 8am to 5pm (closed Saturday & Sundays)"
 phone = "(240) 313-0748"
