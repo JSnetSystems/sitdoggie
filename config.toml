@@ -55,7 +55,7 @@ openingHours = "Open from 8am to 5pm (closed Saturday & Sundays)"
 phone = "(240) 313-0748"
 
 [params.map]
-APIkey = "AIzaSyCge1y5zhl3MODmxUhf1URc-Rv1e6nd30w"
+APIkey = ""
 latitude = "39.382603"
 longitude = "-77.269424"
 pinImage = "images/pin.png"
