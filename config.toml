@@ -2,7 +2,7 @@ baseURL = "https://www.sitdoggie.com/"
 languageCode = "en-us"
 paginate = 6
 theme = "portio"
-title = "Portio"
+title = "Sitdoggie - Dog Walking"
 # Main Menu
 [[menu.main]]
 name = "Home"
