@@ -183,9 +183,10 @@
         </div>
       </div>
       <div class="col-lg-6">
-        {{ $map := .Site.Params.map }}
+        <img src="{{ "images/contact/map.png" | absURL }}" alt="map of coverage area" />
+        <!-- {{ $map := .Site.Params.map }} 
         <div id="map" data-lat={{ $map.latitude }} data-long={{ $map.longitude }} data-pin={{ $map.pinImage | absURL }}>
-        </div>
+        </div> -->
       </div>
     </div>
   </div>
