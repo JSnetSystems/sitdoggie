@@ -1,8 +1,9 @@
 baseURL = "https://www.sitdoggie.com/"
 languageCode = "en-us"
 paginate = 6
+enableRobotsTXT = "false"
 theme = "portio"
-title = "Sitdoggie - Dog Walking"
+title = "Sitdoggie - Dog Walking and Pet Sitting in Frederick Maryland"
 # Main Menu
 [[menu.main]]
 name = "Home"
@@ -38,7 +39,7 @@ weight = 2
 [params]
 blogPageURL = "blog"
 contactLink = "contact"
-copyright = "All right reserved copyright © Sit Doggie 2022"
+copyright = "All right reserved copyright © Sit Doggie 2023"
 footerLogo = "images/contact/widget-logo.png"
 formspreeURL = "YOUR FORMSPREE URL"
 googleAnalytics = "UA-26071497-1"
