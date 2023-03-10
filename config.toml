@@ -48,7 +48,7 @@ logo = "images/site-navigation/logo.png"
 [params.address]
 address = "New Market, Maryland"
 email = "dogwalker@sitdoggie.com"
-openingHours = "Open from 8am to 5pm (closed Saturday & Sundays)"
+openingHours = "Open from 9am to 5pm (closed Saturday & Sundays)"
 phone = "(240) 313-0748"
 
 [params.map]
