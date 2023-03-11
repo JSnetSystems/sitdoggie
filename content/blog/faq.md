@@ -12,7 +12,7 @@ toc: true
 
 Frequently Ask Questions
 
-### Do You do overnite stays in my home?
+### Do You do overnight stays in my home?
 
 Yes, a pet sitter will stay with your pet, usually starting in the early evening hours until morning.​
 
