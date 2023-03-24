@@ -35,6 +35,10 @@ weight = 1
 name = "Frequently Ask Question"
 url = "https://sitdoggie.com/blog/faq/"
 weight = 2
+[[menu.sitemap]]
+name = "Lock Out Service"
+url = "https://sitdoggie.com/blog/lockoutservice/"
+weight = 3
 
 [params]
 blogPageURL = "blog"
