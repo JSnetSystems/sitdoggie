@@ -13,9 +13,9 @@ toc: false
 
 One of our goals at SitDoggie is to make your trips as convenient and seamless as possible. 
 At the end of your first experience, if you are completely satisfied with the service we provide,
-we can enroll you in our key retention / lock out service program to make future trips easier and more expedient. 
+we can enroll you in our Key Retention Lockout Service program to make future trips easier and more expedient. 
 
-When Sit Doggie takes possession of your keys, they are coded so that the keys cannot be
+When SitDoggie takes possession of your keys, they are coded so that the keys cannot be
 matched to your personal information. During your sit, one key is in possession of the sitter (for
 entry purposes) and the other key is secured in a lockbox at our home (for emergencies). 
 
